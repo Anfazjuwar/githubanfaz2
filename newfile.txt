@@ -1,0 +1,14 @@
+PS C:\Users\Anfaz\OneDrive\Desktop\youtube git\GIthubAnfaz2> git branch -a
+* main
+  remotes/origin/gitbranch1
+  remotes/origin/main
+PS C:\Users\Anfaz\OneDrive\Desktop\youtube git\GIthubAnfaz2> git checkout gitbranch1
+Switched to a new branch 'gitbranch1'
+branch 'gitbranch1' set up to track 'origin/gitbranch1'.
+PS C:\Users\Anfaz\OneDrive\Desktop\youtube git\GIthubAnfaz2> git branch -a
+* gitbranch1
+  main
+
+
+
+  git remote add origin https://github.com/Anfazjuwar/githubanfaz2.git
